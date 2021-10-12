@@ -1,0 +1,1 @@
+Ahora sí puedo subir la carpeta archivos, porque no se encuentra vacía y Github logra reconocerla como un "cambio" que ocurrió en el repositorio.
