@@ -1,0 +1,9 @@
+Nombre: Julián Esteban Londoño Ruiz
+Edad: 21 años
+Aspiraciones con la materia:
+Por un lado, me gustaría poder dominar un nuevo lenguaje
+de programación como lo es Java. También quiero aprender con 
+profundidad sobre la programación orientada a objetos y sus respectivas
+aplicaciones.
+Me emociona la idea de un proyecto grupal, para lograr poner en práctica
+los conceptos que se trabajen en las clases.
