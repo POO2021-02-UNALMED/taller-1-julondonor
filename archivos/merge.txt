@@ -1,0 +1,2 @@
+Ahora sí podemos crear un commit y subir la carpeta, ya que ésta no se encuentra vacía.
+Tal como se mencionó en clase, para git una carpeta vacía no representa un cambio en el repositorio. Es por esto, que nos impidió hacer el commit hasta no agregar el archivo respuesta.txt
