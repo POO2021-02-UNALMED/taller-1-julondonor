@@ -7,3 +7,14 @@ profundidad sobre la programación orientada a objetos y sus respectivas
 aplicaciones.
 Me emociona la idea de un proyecto grupal, para lograr poner en práctica
 los conceptos que se trabajen en las clases.
+
+Ahora sí podemos crear un commit y subir la carpeta, ya que ésta no se encuentra vacía.
+Tal como se mencionó en clase, para git una carpeta vacía no representa un cambio en el repositorio. Es por esto, que nos impidió hacer el commit hasta no agregar el archivo respuesta.txt
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Porque al realizar un pull y tratar de hacer un merge, es muy probable que ocurran
+problemas con las versiones. Tendremos que elegir manualmente cuál versión 
+queremos que se quede en la rama principal.
+Para evitar esto se recomienda que un archivo se le asigne a una sola persona, 
+o si deben trabajar varias personas en el mismo archivo, asignar bien los tiempos de modificación
+de cada uno para así poder evitar problemáticas al hacer merge.
