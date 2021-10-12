@@ -1,0 +1,7 @@
+Desde Github Desktop traté de realizar el nuevo commit,
+y no me habilitó esta opción. 
+De hecho, ni siquiera aparecía la nueva carpeta en la
+sección de cambios.
+
+Esto fue lo que explicó el monitor en clase,
+Github no reconoce carpetas vacías como cambios.
